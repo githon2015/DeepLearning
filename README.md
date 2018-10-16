@@ -1,7 +1,5 @@
 # DeepLearning
 
-# BioSimVis
-
 This is an exploratory project looking to see how some biological phenomena can be incorporated into computer vision methodologies.
 
 # Getting Started
